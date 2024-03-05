@@ -15,7 +15,8 @@
 - 담당조교(TA)
   - 양희진(총괄), 김태주, 신정민, 천혜원, 홍주영
 
-
+## 수강생정보
+- [구글시트](https://docs.google.com/spreadsheets/d/19AaltnmajocdU9zlKVp8des7tEv9NncXjIQHiqy9ESM/edit?usp=sharing)
 
 | 주차 | 수업내용 | 강의노트 | 강의날짜 | 참고자료 | 과제 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
