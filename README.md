@@ -20,6 +20,3 @@
 | 1 | 교과목 소개 | [PDF](https://github.com/sejongresearch/2024.DeepLearning/blob/main/LectureNotes/%5B%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%A2%E1%84%85%E1%85%A9%E1%86%AB%5D%5Bch1%5D%20%E1%84%80%E1%85%AA%E1%84%86%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%20(2024).pdf) | 2024.03.05 |  | | 
 | 1 | 연구개발 입문 | [PDF](https://github.com/sejongresearch/2024.DeepLearning/blob/main/LectureNotes/%5B%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%A2%E1%84%85%E1%85%A9%E1%86%AB%5D%5Bch2%5D%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20(2024).pdf) | 2024.03.07 |  | | 
 
-## 수강생정보
-- [구글시트](https://docs.google.com/spreadsheets/d/19AaltnmajocdU9zlKVp8des7tEv9NncXjIQHiqy9ESM/edit?usp=sharing)
-
