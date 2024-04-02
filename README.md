@@ -25,5 +25,7 @@
 | * | Figure AI 소개 |  | 2024.03.19 | [Youtube](https://www.youtube.com/watch?v=xLQzjm4gOTk) <br> [Youtube](https://www.youtube.com/watch?v=Sq1QZB5baNw) | | 
 | 3-2 | 기계학습과 인식 (3.7-3.8) |  | 2024.03.21 | | 과제 마감 3/27 오후11시59분 | 
 | 4-1 | 휴강 |  | 2024.03.26 | |  | 
+| 4-2 | 신경망기초 |  | 2024.03.28 | |  | 
+| 5-1 | 신경망기초 | [PDF]() | 2024.04.02 | |  | 
 
 
