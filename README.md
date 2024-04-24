@@ -32,6 +32,6 @@
 | 6-2 | 딥러닝과 파이토치 | [PDF](https://github.com/sejongresearch/2024.DeepLearning/blob/main/LectureNotes/%5B%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%A2%E1%84%85%E1%85%A9%E1%86%AB%5D%5Bch6%5D%20%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A9%E1%84%8E%E1%85%B5%20(2024)-0411.pdf) | 2024.04.11 | [문제1](https://www.kaggle.com/t/f050154f64bc48cca45e08f062e1f163) <br> [문제2](https://www.kaggle.com/t/89b1101039c34d26b67569e50e373c9a) <br> [문제3](https://www.kaggle.com/t/1c51a55d1b58462aa0aac6e965b656ec) <br> [문제4](https://www.kaggle.com/t/9acd199aaf444f54b7a044462ed3f9a2) | 마감 4/17 | 
 | 7 | 중간고사 |  |  | |  | 
 | 8-1 | 휴강 |  | 2024.04.23 | |  | 
-| 8-2 | 컨볼루션신경망 |  | 2024.04.25 | |  | 
+| 8-2 | 컨볼루션신경망 | [PDF]() | 2024.04.25 | [실습코드](https://www.kaggle.com/code/skyil7/chapter-06-pytorch) |  | 
 
 
