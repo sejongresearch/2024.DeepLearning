@@ -37,6 +37,8 @@
 | 9-2 | 컨볼루션신경망 | [PDF](https://github.com/sejongresearch/2024.DeepLearning/blob/main/LectureNotes/%5B%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%A2%E1%84%85%E1%85%A9%E1%86%AB%5D%5Bch7%5D%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%87%E1%85%A9%E1%86%AF%E1%84%85%E1%85%AE%E1%84%89%E1%85%A7%E1%86%AB%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%20(2024)-0430.pdf) | 2024.05.02 | [실습코드](https://www.kaggle.com/code/skyil7/chapter-06-pytorch) <br> [문제1](https://www.kaggle.com/t/43d9d825e1994f028845bdb0d48f69fb) <br> [문제2](https://www.kaggle.com/t/69d67897520f4ece9e160376b7b527cf) | 마감 5/8 23시59분 |
 | 10-1 | 물체검출기 | [PDF](https://github.com/sejongresearch/2024.DeepLearning/blob/main/LectureNotes/%5B%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%A2%E1%84%85%E1%85%A9%E1%86%AB%5D%5Bch8%5D%20%E1%84%89%E1%85%A1%E1%84%86%E1%85%AE%E1%86%AF%E1%84%90%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%B5%20(2024).pdf) | 2024.05.07 | [동영상1](https://youtu.be/bHBAZZATSto) <br> [동영상2](https://youtu.be/GudDtw0NxBA) <br> [동영상3](https://youtu.be/IN8rC7BQE7s)  |  |
 | 10-2 | 물체검출기 | | 2024.05.09 | [문제1](https://www.kaggle.com/t/388a11949b724064a5ba6ef48d2c02f5) | 마감 5/15 23시 59분| 
+| 11-1 | 물체검출기 | | 2024.05.14 | 프로젝트 설명 |  | 
+| 11-2 | 시계열데이터와 순환신경망 | | 2024.05.16 |  |  | 
 
 
 
